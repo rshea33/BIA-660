@@ -1,0 +1,151 @@
+,sepal_length,sepal_width,petal_length,petal_width,type,soil,sepal_length_cat,petal_width_perc
+0,4.5,2.3,1.3,0.3,Setosa,Shade,very short,0.03571428571428571
+1,4.4,2.9,1.4,0.2,Setosa,Shade,very short,0.02247191011235955
+2,4.9,3.0,1.4,0.2,Setosa,Shade,very short,0.021052631578947368
+3,4.8,3.0,1.4,0.1,Setosa,Sun,very short,0.010752688172043013
+4,4.3,3.0,1.1,0.1,Setosa,Sun,very short,0.011764705882352941
+5,5.0,3.0,1.6,0.2,Setosa,Sun,very short,0.020408163265306124
+6,4.4,3.0,1.3,0.2,Setosa,Sun,very short,0.02247191011235955
+7,4.8,3.0,1.4,0.3,Setosa,Sun,very short,0.031578947368421054
+8,4.6,3.1,1.5,0.2,Setosa,Shade,very short,0.021276595744680854
+9,4.9,3.1,1.5,0.1,Setosa,Sun,very short,0.010416666666666668
+10,4.8,3.1,1.6,0.2,Setosa,Sun,very short,0.02061855670103093
+11,4.9,3.1,1.5,0.2,Setosa,Shade,very short,0.02061855670103093
+12,4.7,3.2,1.3,0.2,Setosa,Sun,very short,0.02127659574468085
+13,4.7,3.2,1.6,0.2,Setosa,Sun,very short,0.02061855670103093
+14,5.0,3.2,1.2,0.2,Setosa,Shade,very short,0.02083333333333334
+15,4.4,3.2,1.3,0.2,Setosa,Sun,very short,0.02197802197802198
+16,4.6,3.2,1.4,0.2,Setosa,Sun,very short,0.021276595744680854
+17,5.1,3.3,1.7,0.5,Setosa,Shade,very short,0.04716981132075473
+18,5.0,3.3,1.4,0.2,Setosa,Sun,very short,0.020202020202020204
+19,4.6,3.4,1.4,0.3,Setosa,Shade,very short,0.030927835051546386
+20,5.0,3.4,1.5,0.2,Setosa,Shade,very short,0.019801980198019802
+21,4.8,3.4,1.6,0.2,Setosa,Shade,very short,0.020000000000000004
+22,5.4,3.4,1.7,0.2,Setosa,Shade,short,0.01869158878504673
+23,4.8,3.4,1.9,0.2,Setosa,Sun,very short,0.01941747572815534
+24,5.0,3.4,1.6,0.4,Setosa,Sun,very short,0.038461538461538464
+25,5.2,3.4,1.4,0.2,Setosa,Sun,short,0.019607843137254905
+26,5.4,3.4,1.5,0.4,Setosa,Sun,short,0.037383177570093455
+27,5.1,3.4,1.5,0.2,Setosa,Shade,very short,0.019607843137254905
+28,5.1,3.5,1.4,0.2,Setosa,Sun,very short,0.019607843137254905
+29,5.1,3.5,1.4,0.3,Setosa,Shade,very short,0.029126213592233007
+30,5.2,3.5,1.5,0.2,Setosa,Shade,short,0.019230769230769235
+31,5.5,3.5,1.3,0.2,Setosa,Shade,short,0.01904761904761905
+32,5.0,3.5,1.3,0.3,Setosa,Shade,very short,0.029702970297029698
+33,5.0,3.5,1.6,0.6,Setosa,Sun,very short,0.056074766355140186
+34,5.0,3.6,1.4,0.2,Setosa,Shade,very short,0.019607843137254905
+35,4.6,3.6,1.0,0.2,Setosa,Shade,very short,0.021276595744680854
+36,4.9,3.6,1.4,0.1,Setosa,Sun,very short,0.01
+37,5.4,3.7,1.5,0.2,Setosa,Sun,short,0.018518518518518517
+38,5.1,3.7,1.5,0.4,Setosa,Sun,very short,0.037383177570093455
+39,5.3,3.7,1.5,0.2,Setosa,Shade,short,0.01869158878504673
+40,5.7,3.8,1.7,0.3,Setosa,Sun,short,0.02608695652173913
+41,5.1,3.8,1.5,0.3,Setosa,Sun,very short,0.028037383177570093
+42,5.1,3.8,1.9,0.4,Setosa,Shade,very short,0.03571428571428572
+43,5.1,3.8,1.6,0.2,Setosa,Sun,very short,0.018691588785046735
+44,5.4,3.9,1.7,0.4,Setosa,Sun,short,0.03508771929824561
+45,5.4,3.9,1.3,0.4,Setosa,Sun,short,0.03636363636363636
+46,5.8,4.0,1.2,0.2,Setosa,Shade,short,0.01785714285714286
+47,5.2,4.1,1.5,0.1,Setosa,Sun,short,0.009174311926605505
+48,5.5,4.2,1.4,0.2,Setosa,Shade,short,0.01769911504424779
+49,5.7,4.4,1.5,0.4,Setosa,Shade,short,0.03333333333333333
+50,5.0,2.0,3.5,1.0,Versicolour,Shade,very short,0.08695652173913043
+51,6.0,2.2,4.0,1.0,Versicolour,Shade,long,0.07575757575757576
+52,6.2,2.2,4.5,1.5,Versicolour,Shade,long,0.10416666666666666
+53,5.5,2.3,4.0,1.3,Versicolour,Shade,short,0.09923664122137404
+54,6.3,2.3,4.4,1.3,Versicolour,Shade,long,0.09090909090909091
+55,5.0,2.3,3.3,1.0,Versicolour,Shade,very short,0.08620689655172414
+56,4.9,2.4,3.3,1.0,Versicolour,Shade,very short,0.08620689655172413
+57,5.5,2.4,3.8,1.1,Versicolour,Shade,short,0.08593750000000001
+58,5.5,2.4,3.7,1.0,Versicolour,Shade,short,0.07936507936507936
+59,5.6,2.5,3.9,1.1,Versicolour,Shade,short,0.08396946564885498
+60,6.3,2.5,4.9,1.5,Versicolour,Shade,long,0.09868421052631578
+61,5.5,2.5,4.0,1.3,Versicolour,Shade,short,0.09774436090225563
+62,5.1,2.5,3.0,1.1,Versicolour,Shade,very short,0.09401709401709403
+63,5.7,2.6,3.5,1.0,Versicolour,Shade,short,0.078125
+64,5.5,2.6,4.4,1.2,Versicolour,Sun,short,0.08759124087591241
+65,5.8,2.6,4.0,1.2,Versicolour,Shade,short,0.08823529411764706
+66,5.2,2.7,3.9,1.4,Versicolour,Shade,short,0.10606060606060605
+67,5.8,2.7,4.1,1.0,Versicolour,Shade,short,0.07352941176470588
+68,5.8,2.7,3.9,1.2,Versicolour,Shade,short,0.08823529411764706
+69,6.0,2.7,5.1,1.6,Versicolour,Shade,long,0.10389610389610392
+70,5.6,2.7,4.2,1.3,Versicolour,Sun,short,0.09420289855072464
+71,6.5,2.8,4.6,1.5,Versicolour,Sun,very long,0.09740259740259741
+72,5.7,2.8,4.5,1.3,Versicolour,Sun,short,0.09090909090909091
+73,6.1,2.8,4.0,1.3,Versicolour,Sun,long,0.09154929577464789
+74,6.1,2.8,4.7,1.2,Versicolour,Shade,long,0.0810810810810811
+75,6.8,2.8,4.8,1.4,Versicolour,Shade,very long,0.08860759493670886
+76,5.7,2.8,4.1,1.3,Versicolour,Sun,short,0.09352517985611511
+77,6.6,2.9,4.6,1.3,Versicolour,Sun,very long,0.08441558441558442
+78,6.1,2.9,4.7,1.4,Versicolour,Sun,long,0.09271523178807947
+79,5.6,2.9,3.6,1.3,Versicolour,Shade,short,0.09701492537313433
+80,6.4,2.9,4.3,1.3,Versicolour,Sun,long,0.08724832214765099
+81,6.0,2.9,4.5,1.5,Versicolour,Sun,long,0.10067114093959731
+82,5.7,2.9,4.2,1.3,Versicolour,Shade,short,0.09219858156028368
+83,6.2,2.9,4.3,1.3,Versicolour,Sun,long,0.08843537414965986
+84,5.9,3.0,4.2,1.5,Versicolour,Shade,long,0.10273972602739725
+85,5.6,3.0,4.5,1.5,Versicolour,Sun,short,0.10273972602739727
+86,6.6,3.0,4.4,1.4,Versicolour,Sun,very long,0.0909090909090909
+87,6.7,3.0,5.0,1.7,Versicolour,Sun,very long,0.10365853658536586
+88,5.4,3.0,4.5,1.5,Versicolour,Sun,short,0.10416666666666666
+89,5.6,3.0,4.1,1.3,Versicolour,Sun,short,0.09285714285714286
+90,6.1,3.0,4.6,1.4,Versicolour,Sun,long,0.09271523178807947
+91,5.7,3.0,4.2,1.2,Versicolour,Sun,short,0.08510638297872342
+92,6.9,3.1,4.9,1.5,Versicolour,Sun,very long,0.09146341463414635
+93,6.7,3.1,4.4,1.4,Versicolour,Sun,very long,0.08974358974358973
+94,6.7,3.1,4.7,1.5,Versicolour,Sun,very long,0.09375
+95,7.0,3.2,4.7,1.4,Versicolour,Sun,very long,0.08588957055214724
+96,6.4,3.2,4.5,1.5,Versicolour,Sun,long,0.09615384615384615
+97,5.9,3.2,4.8,1.8,Versicolour,Sun,long,0.11464968152866241
+98,6.3,3.3,4.7,1.6,Versicolour,Sun,long,0.10062893081761007
+99,6.0,3.4,4.5,1.6,Versicolour,Sun,long,0.1032258064516129
+100,6.0,2.2,5.0,1.5,Virginica,Sun,long,0.10204081632653061
+101,4.9,2.5,4.5,1.7,Virginica,Sun,very short,0.125
+102,6.7,2.5,5.8,1.8,Virginica,Shade,very long,0.10714285714285714
+103,5.7,2.5,5.0,2.0,Virginica,Sun,short,0.13157894736842105
+104,6.3,2.5,5.0,1.9,Virginica,Sun,long,0.12101910828025476
+105,7.7,2.6,6.9,2.3,Virginica,Sun,very long,0.11794871794871792
+106,6.1,2.6,5.6,1.4,Virginica,Sun,long,0.08917197452229299
+107,5.8,2.7,5.1,1.9,Virginica,Sun,short,0.12258064516129032
+108,6.4,2.7,5.3,1.9,Virginica,Sun,long,0.1165644171779141
+109,6.3,2.7,4.9,1.8,Virginica,Sun,long,0.11464968152866241
+110,5.8,2.7,5.1,1.9,Virginica,Sun,short,0.12258064516129032
+111,5.8,2.8,5.1,2.4,Virginica,Sun,short,0.14906832298136646
+112,5.6,2.8,4.9,2.0,Virginica,Sun,short,0.13071895424836602
+113,7.7,2.8,6.7,2.0,Virginica,Shade,very long,0.10416666666666667
+114,6.2,2.8,4.8,1.8,Virginica,Sun,long,0.11538461538461538
+115,6.4,2.8,5.6,2.1,Virginica,Shade,long,0.12426035502958581
+116,7.4,2.8,6.1,1.9,Virginica,Shade,very long,0.10439560439560441
+117,6.4,2.8,5.6,2.2,Virginica,Shade,long,0.12941176470588237
+118,6.3,2.8,5.1,1.5,Virginica,Shade,long,0.09554140127388536
+119,6.3,2.9,5.6,1.8,Virginica,Sun,long,0.10843373493975905
+120,7.3,2.9,6.3,1.8,Virginica,Shade,very long,0.09836065573770492
+121,7.1,3.0,5.9,2.1,Virginica,Sun,very long,0.11602209944751381
+122,6.5,3.0,5.8,2.2,Virginica,Shade,very long,0.12571428571428572
+123,7.6,3.0,6.6,2.1,Virginica,Sun,very long,0.10880829015544041
+124,6.8,3.0,5.5,2.1,Virginica,Shade,very long,0.12068965517241378
+125,6.5,3.0,5.5,1.8,Virginica,Sun,very long,0.10714285714285714
+126,6.1,3.0,4.9,1.8,Virginica,Sun,long,0.11392405063291139
+127,7.2,3.0,5.8,1.6,Virginica,Shade,very long,0.09090909090909091
+128,7.7,3.0,6.1,2.3,Virginica,Shade,very long,0.12041884816753927
+129,6.0,3.0,4.8,1.8,Virginica,Shade,long,0.11538461538461538
+130,6.7,3.0,5.2,2.3,Virginica,Shade,very long,0.13372093023255813
+131,6.5,3.0,5.2,2.0,Virginica,Shade,very long,0.11976047904191617
+132,5.9,3.0,5.1,1.8,Virginica,Shade,long,0.11392405063291139
+133,6.4,3.1,5.5,1.8,Virginica,Shade,long,0.10714285714285714
+134,6.9,3.1,5.4,2.1,Virginica,Shade,very long,0.12000000000000001
+135,6.7,3.1,5.6,2.4,Virginica,Shade,very long,0.1348314606741573
+136,6.9,3.1,5.1,2.3,Virginica,Shade,very long,0.13218390804597702
+137,6.5,3.2,5.1,2.0,Virginica,Shade,very long,0.11904761904761907
+138,6.4,3.2,5.3,2.3,Virginica,Sun,long,0.1337209302325581
+139,6.9,3.2,5.7,2.3,Virginica,Shade,very long,0.12707182320441987
+140,7.2,3.2,6.0,1.8,Virginica,Shade,very long,0.09890109890109891
+141,6.8,3.2,5.9,2.3,Virginica,Shade,very long,0.12637362637362637
+142,6.3,3.3,6.0,2.5,Virginica,Shade,long,0.13812154696132595
+143,6.7,3.3,5.7,2.1,Virginica,Shade,very long,0.11797752808988764
+144,6.7,3.3,5.7,2.5,Virginica,Shade,very long,0.13736263736263737
+145,6.3,3.4,5.6,2.4,Virginica,Shade,long,0.13559322033898305
+146,6.2,3.4,5.4,2.3,Virginica,Shade,long,0.1329479768786127
+147,7.2,3.6,6.1,2.5,Virginica,Shade,very long,0.1288659793814433
+148,7.7,3.8,6.7,2.2,Virginica,Shade,very long,0.10784313725490198
+149,7.9,3.8,6.4,2.0,Virginica,Shade,very long,0.09950248756218905
