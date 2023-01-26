@@ -1,0 +1,79 @@
+text
+The Power of Natural Language Processing.
+"Until recently, the conventional wisdom was that while AI was better than humans at data-driven decision making tasks, it was still inferior to humans for cognitive and creative ones."
+"But in the past two years language-based AI has advanced by leaps and bounds, changing common notions of what this technology can do.The most visible advances have been in what’s called “natural language processing” (NLP), the branch of AI focused on how computers can process language like humans do."
+"It has been used to write an article for The Guardian, and AI-authored blog posts have gone viral — feats that weren’t possible a few years ago."
+AI even excels at cognitive tasks like programming where it is able to generate programs for simple video games from human instructions.
+"Yet while these stunts may be attention grabbing, are they really indicative of what this tech can do for businesses?"
+What NLP Can Do?
+"The best known natural language processing tool is GPT-3, from OpenAI, which uses AI and statistics to predict the next word in a sentence based on the preceding words."
+"NLP practitioners call tools like this “language models,” and they can be used for simple analytics tasks, such as classifying documents and analyzing the sentiment in blocks of text, as well as more advanced tasks, such as answering questions and summarizing reports."
+"Language models are already reshaping traditional text analytics, but GPT-3 was an especially pivotal language model because, at 10x larger than any previous model upon release, it was the first large language model, which enabled it to perform even more advanced tasks like programming and solving high school–level math problems."
+"The latest version, called InstructGPT, has been fine-tuned by humans to generate responses that are much better aligned with human values and user intentions, and Google’s latest model shows further impressive breakthroughs on language and reasoning."
+"For businesses, the three areas where GPT-3 has appeared most promising are writing, coding, and discipline-specific reasoning."
+"OpenAI, the Microsoft-funded creator of GPT-3, has developed a GPT-3-based language model intended to act as an assistant for programmers by generating code from natural language input."
+"This tool, Codex, is already powering products like Copilot for Microsoft’s subsidiary GitHub and is capable of creating a basic video game simply by typing instructions."
+"This transformative capability was already expected to change the nature of how programmers do their jobs, but models continue to improve — the latest from Google’s DeepMind AI lab, for example, demonstrates the critical thinking and logic skills necessary to outperform most humans in programming competitions."
+Models like GPT-3 are considered to be foundation models — an emerging AI research area — which also work for other types of data such as images and video.
+"Foundation models can even be trained on multiple forms of data at the same time, like OpenAI’s DALL·E 2, which is trained on language and images to generate high-resolution renderings of imaginary scenes or objects simply from text prompts."
+"Due to their potential to transform the nature of cognitive work, economists expect that foundation models may affect every part of the economy and could lead to increases in economic growth similar to the industrial revolution."
+A Language-Based AI Research Assistant.
+"In my own work, I’ve been looking at how GPT-3-based tools can assist researchers in the research process."
+"I am currently working with Ought, a San Francisco company developing an open-ended reasoning tool (called Elicit) that is intended to help researchers answer questions in minutes or hours instead of weeks or months."
+"Elicit is designed for a growing number of specific tasks relevant to research, like summarization, data labeling, rephrasing, brainstorming, and literature reviews."
+I’ve found — not surprisingly — that Elicit works better for some tasks than others.
+"Tasks like data labeling and summarization are still rough around the edges, with noisy results and spotty accuracy, but research from Ought and research from OpenAI shows promise for the future."
+"For example, the rephrase task is useful for writing, but the lack of integration with word processing apps renders it impractical for now."
+"Brainstorming tasks are great for generating ideas or identifying overlooked topics, and despite the noisy results and barriers to adoption, they are currently valuable for a variety of situations."
+"Yet, of all the tasks Elicit offers, I find the literature review the most useful."
+"Because Elicit is an AI research assistant, this is sort of its bread-and-butter, and when I need to start digging into a new research topic, it has become my go-to resource."
+All of this is changing how I work.
+"I spend much less time trying to find existing content relevant to my research questions because its results are more applicable than other, more traditional interfaces for academic search like Google Scholar."
+"I am also beginning to integrate brainstorming tasks into my work as well, and my experience with these tools has inspired my latest research, which seeks to utilize foundation models for supporting strategic planning."
+How Can Organizations Prepare for the Future?
+Identify your text data assets and determine how the latest techniques can be leveraged to add value for your firm.
+"You are certainly aware of the value of data, but you still may be overlooking some essential data assets if you are not utilizing text analytics and NLP throughout your organization."
+"Text data is certainly valuable for customer experience management and understanding the voice of the customer, but think about other text data assets in your organization: emails, analysts’ reports, contracts, press releases, archives — even meetings and phone calls can be transcribed."
+"There is so much text data, and you don’t need advanced models like GPT-3 to extract its value."
+"Hugging Face, an NLP startup, recently released AutoNLP, a new tool that automates training models for standard text analytics tasks by simply uploading your data to the platform."
+"The data still needs labels, but far fewer than in other applications."
+"Because many firms have made ambitious bets on AI only to struggle to drive value into the core business, remain cautious to not be overzealous."
+This can be a good first step that your existing machine learning engineers — or even talented data scientists — can manage.
+"To take the next step, again, identify your data assets."
+"Many sectors, and even divisions within your organization, use highly specialized vocabularies."
+"Through a combination of your data assets and open datasets, train a model for the needs of specific sectors or divisions."
+Think of finance.
+You do not want a model specialized in finance.
+"You want a model customized for commercial banking, or for capital markets."
+"And data is critical, but now it is unlabeled data, and the more the better."
+Specialized models like this can unlock untold value for your firm.Understand how you might leverage AI-based language technologies to make better decisions or reorganize your skilled labor.
+"Language-based AI won’t replace jobs, but it will automate many tasks, even for decision makers."
+Startups like Verneek are creating Elicit-like tools to enable everyone to make data-informed decisions.
+These new tools will transcend traditional business intelligence and will transform the nature of many  roles in organizations — programmers are just the beginning.
+You need to start understanding how these technologies can be used to reorganize your skilled labor.
+"The next generation of tools like OpenAI’s Codex will lead to more productive programmers, which likely means fewer dedicated programmers and more employees with modest programming skills using them for an increasing number of more complex tasks."
+"This may not be true for all software developers, but it has significant implications for tasks like data processing and web development."
+Begin incorporating new language-based AI tools for a variety of tasks to better understand their capabilities.
+"Right now tools like Elicit are just emerging, but they can already be useful in surprising ways."
+"In fact, the previous suggestion was inspired by one of Elicit’s brainstorming tasks conditioned on my other three suggestions."
+"The original suggestion itself wasn’t perfect, but it reminded me of some critical topics that I had overlooked, and I revised the article accordingly."
+"In organizations, tasks like this can assist strategic thinking or scenario-planning exercises."
+"Although there is tremendous potential for such applications, right now the results are still relatively crude, but they can already add value in their current state."
+The bottom line is that you need to encourage broad adoption of language-based AI tools throughout your business.
+"It is difficult to anticipate just how these tools might be used at different levels of your organization, but the best way to get an understanding of this tech may be for you and other leaders in your firm to adopt it yourselves."
+"Don’t bet the boat on it because some of the tech may not work out, but if your team gains a better understanding of what is possible, then you will be ahead of the competition."
+"Remember that while current AI might not be poised to replace managers, managers who understand AI are poised to replace managers who don’t."
+Do not underestimate the transformative potential of AI.Large foundation models like GPT-3 exhibit abilities  to generalize to a large number of tasks without any task-specific training.
+"The recent progress in this tech is  a significant step toward human-level generalization and general artificial intelligence that are the ultimate  goals of many AI researchers, including those at OpenAI and Google’s DeepMind."
+"Such systems have tremendous  disruptive potential that could lead to AI-driven explosive economic growth, which would radically transform  business and society."
+"While you may still be skeptical of radically transformative AI like artificial general intelligence, it is prudent for organizations’ leaders to be cognizant of early signs of progress due to its tremendous disruptive potential."
+Consider that former Google chief Eric Schmidt expects general artificial intelligence in 10–20 years and   that the UK recently took an official position on risks from artificial general intelligence.
+"Had organizations    paid attention to Anthony Fauci’s 2017 warning on the importance of pandemic preparedness, the most severe effects of the pandemic and ensuing supply chain crisis may have been avoided."
+"Ignoring the transformative potential of AI also carries risks, and similar to the supply chain crisis, firms’ inaction or irresponsible use of AI could have widespread and damaging effects on society (e.g., increasing inequality or domain-specific risks from automation)."
+"However, unlike the supply chain crisis, societal changes from transformative AI will likely be irreversible and could even continue to accelerate."
+"Organizations should begin preparing now not only to capitalize on transformative AI, but to do their part to avoid undesirable futures and ensure that advanced AI is used to equitably benefit society."
+Language-Based AI Tools Are Here to Stay.
+"Powerful generalizable language-based AI tools like Elicit are here, and they are just the tip of the iceberg; multimodal foundation model-based tools are poised to transform business in ways that are still difficult to predict."
+"To begin preparing now, start understanding your text data assets and the variety of cognitive tasks involved in different roles in your organization."
+"Aggressively adopt new language-based AI technologies; some will work well and others will not, but your employees will be quicker to adjust when you move on to the next."
+And don’t forget to adopt these technologies yourself — this is the best way for you to start to understand their future roles in your organization.
