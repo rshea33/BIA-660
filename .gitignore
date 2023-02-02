@@ -1,3 +1,5 @@
 .DS_Store
 
 private_data.py
+
+__pycache__
